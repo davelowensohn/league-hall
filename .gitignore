@@ -6,7 +6,8 @@
 
 # dependencies
 /node_modules
-/bower_components
+# Vendor bower, since GH repos can change or disappear
+#/bower_components
 
 # misc
 /.sass-cache

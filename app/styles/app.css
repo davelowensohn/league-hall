@@ -1,0 +1,21 @@
+@import "bootstrap";
+
+.section-title {
+  color: #f0f;
+}
+
+.home-bkg {
+  /*background-color: #000;*/
+}
+
+.home-door {
+  background-color: #f0f;
+}
+
+.home-post {
+  background-color: #0ff;
+}
+
+.home-board {
+  background-color: #0ff;
+}
