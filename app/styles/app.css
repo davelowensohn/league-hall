@@ -1,21 +1,23 @@
-@import "bootstrap";
+html {
+  height: 100%;
+}
+
+html, body {
+  background-color: #000;
+}
 
 .section-title {
   color: #f0f;
 }
 
-.home-bkg {
-  /*background-color: #000;*/
-}
-
-.home-door {
+.home-frontdoor {
   background-color: #f0f;
 }
 
-.home-post {
+.home-signpost {
   background-color: #0ff;
 }
 
-.home-board {
+.home-bulletin {
   background-color: #0ff;
 }
