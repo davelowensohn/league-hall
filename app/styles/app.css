@@ -11,6 +11,10 @@ h3 {
   color: antiquewhite;
 }
 
+.btn {
+  white-space: normal;
+}
+
 .section-title {
   color: #f0f;
 }
