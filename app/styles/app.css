@@ -4,6 +4,11 @@ html {
 
 html, body {
   background-color: #000;
+  font-family: monospace;
+}
+
+h3 {
+  color: antiquewhite;
 }
 
 .section-title {
@@ -19,5 +24,13 @@ html, body {
 }
 
 .home-bulletin {
-  background-color: #0ff;
+  background-color: #00f;
+}
+
+.greatroom-leaderboard {
+  background-color: #f00;
+}
+
+.greatroom-fireplace {
+  background-color: #ff0;
 }
