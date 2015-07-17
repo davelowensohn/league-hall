@@ -6,8 +6,7 @@
 
 # dependencies
 /node_modules
-# Vendor bower, since GH repos can change or disappear
-#/bower_components
+/bower_components
 
 # misc
 /.sass-cache
@@ -16,4 +15,3 @@
 /libpeerconnection.log
 npm-debug.log
 testem.log
-.divshot-cache
